@@ -4,9 +4,10 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>왜 아깐 되고</title>
 </head>
 <body>
 	<h1>관리자 페이지</h1>
+    <h1>난 열정 페이지</h1>
 </body>
 </html>
